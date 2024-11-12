@@ -1,0 +1,33 @@
+.body{
+    background-color: blanchedalmond;
+}
+
+.titulo{
+    display: flex;
+    text-align: center;
+    padding: 20px;
+    margin: 35px;
+}
+
+.img{
+    width: auto;
+    height: auto;
+}
+
+.distributed{
+    display: flex;
+    text-align: center;
+    color: darkgray;
+    font-size: 25px;
+    font-family: ;
+}
+
+
+.cosasxd{
+    margin: 35px;
+    padding: 20px;
+}
+
+.naranjo{
+    color: orangered;
+}
